@@ -111,7 +111,7 @@ function isDuplicate(key) {
 }
 
 // ============ ROUTES ============
-app.get('/', (req, res) => res.json({ status: 'XACCESS API v6 🚀' }));
+app.get('/', (req, res) => res.json({ status: 'XACCESS API v7 🚀' }));
 
 app.get('/api/drive-files', async (req, res) => {
   try {
