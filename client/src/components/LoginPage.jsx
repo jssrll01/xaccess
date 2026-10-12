@@ -70,7 +70,7 @@ export default function LoginPage() {
             <span className="text-3xl font-black text-white">XM</span>
           </div>
           <h1 className="text-3xl font-bold text-gray-700">
-            XMARKET <span className="text-brand">Support</span>
+            XACCESS
           </h1>
           <p className="text-sm text-gray-500 mt-2">
             Enter your access code to continue
