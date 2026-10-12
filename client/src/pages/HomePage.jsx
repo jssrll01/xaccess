@@ -132,9 +132,9 @@ export default function HomePage() {
       <header className="text-center mb-8 animate-fade-up">
         <div className="w-20 h-20 mx-auto mb-5 rounded-3xl flex items-center justify-center
                         bg-gradient-to-br from-brand to-brand-dark shadow-lg shadow-blue-500/30">
-          <span className="text-3xl font-black text-white">XM</span>
+          <span className="text-3xl font-black text-white">XA</span>
         </div>
-        <h1 className="text-4xl font-bold">XMARKET <span className="text-brand">Dashboard</span></h1>
+        <h1 className="text-4xl font-bold">XACCESS <span className="text-brand">Dashboard</span></h1>
         <p className="text-sm text-gray-500 mt-2">Live stats from your Drive folder.</p>
       </header>
 
